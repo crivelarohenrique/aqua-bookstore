@@ -12,7 +12,7 @@ const app = express()
 connectDB();
 
 app.use(cors({
-    origin: ["http://localhost:3000"],
+    origin: ["https://react-library-frontend-flame.vercel.app"],
     methods: ['GET', 'POST', 'DELETE', 'PUT'],
     credentials: true
 }));
