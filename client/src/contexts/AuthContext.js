@@ -27,7 +27,6 @@ export const AuthProvider = ({ children }) => {
         setLoading(true);
         try {
             const response = await api.post('/api/user/login', { username, password });
-            console.log(response)
             setAuthenticated(response.data.authenticated);
         } catch (error) {
             setAuthenticated(false);
