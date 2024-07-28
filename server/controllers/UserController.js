@@ -38,7 +38,7 @@ const loginUserController = async (req, res) => {
         const { username, password } = req.body;
         const user = await UserService.loginUserService(username, password);
 
-        if (user.error === 'Usuário não encontrado') {
+        if (user.error === 'Usuário não encontrado' || user.error === 'Senha inválida') {
             return res.status(401).send({ message: 'Usuário ou senha inválidos' });
         }
 
