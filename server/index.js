@@ -19,7 +19,7 @@ app.use(cors({
 
 app.use(express.json());
 app.use(cookieParser())
-app.use('/imagens', express.static(path.join(__dirname, '..', 'public', 'assets' )))
+app.use('/imagens', express.static(path.join(__dirname, 'public', 'assets' )))
 app.use('/api', router);
 
 app.get('/',(req,res)=>{
