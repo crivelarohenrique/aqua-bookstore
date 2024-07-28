@@ -1,0 +1,122 @@
+[
+  {
+    "title": "O Hobbit",
+    "slug": "o-hobbit",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/hobbit.jpg",
+    "alt": "O Hobbit",    
+    "price": 25,
+    "category": "Fantasia",
+    "author": "J.R.R. Tolkien",
+    "synopsis": "Prelúdio de 'O Senhor dos Anéis', 'O Hobbit' conquistou sucesso imediato quando foi publicado em 1937. Vendeu milhões de cópias em todo o mundo e estabeleceu-se como um clássico moderno e um dos livros mais influentes de nossa geração. Bilbo Bolseiro é um hobbit que leva uma vida confortável e sem ambições. Mas seu contentamento é perturbado quando Gandalf, o mago, e uma companhia de anões batem à sua porta e levam-no para uma expedição. Eles têm um plano para roubar o tesouro guardado por Smaug, o Magnífico, um grande e perigoso dragão. Bilbo reluta muito em participar da aventura, mas acaba surpreendendo até a si mesmo com sua esperteza e sua habilidade como ladrão! Tradução de Lenita Maria Rímoli Esteves."
+  },
+  {
+    "title": "A Garota Do Lago",
+    "slug": "a-garota-do-lago",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/garotalago.jpg",
+    "alt": "A Garota Do Lago",    
+    "price": 30,
+    "category": "Suspense",
+    "author": "Charlie Donlea",
+    "synopsis": "Summit Lake, uma pequena cidade entre montanhas, é esse tipo de lugar, bucólico e com encantadoras casas dispostas à beira de um longo trecho de água intocada. Duas semanas atrás, a estudante de direito Becca Eckersley foi brutalmente assassinada em uma dessas casas. Filha de um poderoso advogado, Becca estava no auge de sua vida. Atraída instintivamente pela notícia, a repórter Kelsey Castle vai até a cidade para investigar o caso. ...E LOGO SE ESTABELECE UMA CONEXÃO ÍNTIMA QUANDO UM VIVO CAMINHA NAS MESMAS PEGADAS DOS MORTOS...E enquanto descobre sobre as amizades de Becca, sua vida amorosa e os segredos que ela guardava, a repórter fica cada vez mais convencida de que a verdade sobre o que aconteceu com Becca pode ser a chave para superar as marcas sombrias de seu próprio passado."
+  },
+  {
+    "title": "It a Coisa",
+    "slug": "it-a-coisa",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/itacoisa.jpg",
+    "alt": "It a Coisa",    
+    "price": 35,
+    "category": "Terror",
+    "author": "Stephen King",
+    "synopsis": "Nesse clássico que inspirou os filmes da Warner, um grupo de amigos conhecido como Clube dos Otários aprende o real sentido da amizade, do amor, da confiança... e do medo. O mais profundo e tenebroso medo. Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas estranhas. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. É assim que Bill, Beverly, Eddie, Ben, Richie, Mike e Stan enfrentam a Coisa pela primeira vez. Quase trinta anos depois, o grupo volta a se encontrar. Mike, o único que permaneceu em Derry, dá o sinal ― uma nova onda de terror tomou a pequena cidade. É preciso unir forças novamente. Só eles têm a chave do enigma. Só eles sabem o que se esconde nas entranhas de Derry. Só eles podem vencer a Coisa. Mesmo depois de tantos anos, o público continua obcecado por IT. Ficamos obcecados porque todos temos medos. Todos temos algo que nos assusta, sejam palhaços e aranhas ou coisas que se escondem em um lugar muito mais profundo de nossa mente. Este livro fala com todo mundo. É o romance mais assustador de King, e duvido que isso vá mudar” ― The Guardian"
+  },
+  {
+    "title": "O Ceifador",
+    "slug": "o-ceifador",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/ceifador.jpg",
+    "alt": "O Ceifador",    
+    "price": 20,
+    "category": "Ficção",
+    "author": "Neal Shusterman",
+    "synopsis": "A humanidade venceu todas as barreiras: fome, doenças, guerras, miséria… Até mesmo a morte. Agora os ceifadores são os únicos que podem pôr fim a uma vida, impedindo que o crescimento populacional vá além do limite e a Terra deixe de comportar a população por toda a eternidade. Citra e Rowan são adolescentes escolhidos como aprendizes de ceifador - um papel que nenhum dos dois quer desempenhar. Para receberem o anel e o manto da Ceifa, os adolescentes precisam dominar a 'arte' da coleta, ou seja, precisam aprender a matar. Porém, se falharem em sua missão - ou se a cumplicidade no treinamento se tornar algo mais -, podem colocar a própria vida em risco."
+  },
+  {
+    "title": "Duna",
+    "slug": "duna",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/duna.jpg",
+    "alt": "Duna",    
+    "price": 25,
+    "category": "Ficção",
+    "author": "Frank Herbert",
+    "synopsis": "Uma estonteante mistura de aventura e misticismo, ecologia e política, este romance ganhador dos prêmios Hugo e Nebula deu início a uma das mais épicas histórias de toda a ficção científica. Duna é um triunfo da imaginação, que influenciará a literatura para sempre.Esta edição inédita, com introdução de Neil Gaiman, apresenta ao leitor o universo fantástico criado por Herbert e que será adaptado ao cinema por Denis Villeneuve, diretor de A chegada e de Blade Runner 2049.."
+  },
+  {
+    "title": "Harry Potter e a Pedra Filosofal",
+    "slug": "harry-potter-e-a-pedra-filosofal",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/harrypotterpedra.jpg",
+    "alt": "Harry Potter e a Pedra Filosofal",    
+    "price": 30,
+    "category": "Fantasia",
+    "author": "J.K. Rowling",
+    "synopsis": "Harry Potter é um garoto cujos pais, feiticeiros, foram assassinados por um poderosíssimo bruxo quando ele ainda era um bebê. Ele foi levado, então, para a casa dos tios que nada tinham a ver com o sobrenatural. Pelo contrário. Até os 10 anos, Harry foi uma espécie de gata borralheira: maltratado pelos tios, herdava roupas velhas do primo gorducho, tinha óculos remendados e era tratado como um estorvo. No dia de seu aniversário de 11 anos, entretanto, ele parece deslizar por um buraco sem fundo, como o de Alice no país das maravilhas, que o conduz a um mundo mágico. Descobre sua verdadeira história e seu destino: ser um aprendiz de feiticeiro até o dia em que terá que enfrentar a pior força do mal, o homem que assassinou seus pais. O menino de olhos verde, magricela e desengonçado, tão habituado à rejeição, descobre, também, que é um herói no universo dos magos. Potter fica sabendo que é a única pessoa a ter sobrevivido a um ataque do tal bruxo do mal e essa é a causa da marca em forma de raio que ele carrega na testa. Ele não é um garoto qualquer, ele sequer é um feiticeiro qualquer ele é Harry Potter, símbolo de poder, resistência e um líder natural entre os sobrenaturais. A fábula, recheada de fantasmas, paredes que falam, caldeirões, sapos, unicórnios, dragões e gigantes, não é, entretanto, apenas um passatempo."
+  },
+  {
+    "title": "Percy Jackson e o Ladrão de Raios",
+    "slug": "percy-jackson-e-o-ladrao-de-raios",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/percyjackson.jpg",
+    "alt": "Percy Jackson e o Ladrão de Raios",    
+    "price": 35,
+    "category": "Fantasia",
+    "author": "Rick Riordan",
+    "synopsis": "Unindo mitologia grega, muita aventura e tramas hilárias, a história de Rick Riordan sobre um adolescente com TDAH que descobre ser filho do deus do mar e precisa navegar entre o mundo humano e o divino se tornou um best-seller e formou uma geração de leitores apaixonados, que até hoje acompanham a saga de Percy e seus amigos. Agora, a Intrínseca relança os cinco livros da série em uma edição com nova arte de capa, muito pedida pelos leitores. As belas ilustrações da artista Victo Ngai acompanham o design da mais nova aventura do semideus, O cálice dos deuses , que chega às livrarias em lançamento mundial no dia 26 de setembro. Nessa primeira aventura da série que conquistou fãs no mundo todo e deu a Riordan o título de “contador de histórias dos deuses”, conhecemos Percy Jackson, um garoto de 12 anos que está prestes a ser expulso do colégio interno. De novo. É a sexta vez que isso acontece. Percy tem que lidar com as consequências do transtorno do déficit de atenção e da dislexia, o que não torna sua vida lá muito fácil. Só que, ultimamente, criaturas fantásticas e os deuses do Monte Olimpo parecem estar saindo dos livros de mitologia grega do colégio para a realidade. Ao que tudo indica, tem um pessoal bem irritado com o pobre garoto. Vários acidentes e revelações inexplicáveis afastam Percy de Nova York, sua cidade, e o lançam em um campo de treinamento muito especial, onde ele é orientado para enfrentar uma missão que envolve humanos diferentes ― metade deuses, metade homens ―, além de seres mitológicos. O raio-mestre de Zeus foi roubado, e é Percy quem deve resgatá-lo. Com a ajuda de novos amigos ― um sátiro e a filha de uma deusa ―, Percy tem dez dias para reaver o raio, que representa a destruição original, e restabelecer a paz no Olimpo. Para conseguir isso, ele precisará fazer mais que capturar um ladrão."
+  },
+  {
+    "title": "O Conto da Aia",
+    "slug": "o-conto-da-aia",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/contodeaia.webp",
+    "alt": "O Conto da Aia",    
+    "price": 20,
+    "category": "Ficção",
+    "author": "Margareth Atwood",
+    "synopsis": "O romance distópico O conto da aia, de Margaret Atwood, se passa num futuro muito próximo e tem como cenário uma república onde não existem mais jornais, revistas, livros nem filmes. As universidades foram extintas. Também já não há advogados, porque ninguém tem direito a defesa. Os cidadãos considerados criminosos são fuzilados e pendurados mortos no Muro, em praça pública, para servir de exemplo enquanto seus corpos apodrecem à vista de todos. Para merecer esse destino, não é preciso fazer muita coisa – basta, por exemplo, cantar qualquer canção que contenha palavras proibidas pelo regime, como “liberdade”. Nesse Estado teocrático e totalitário, as mulheres são as vítimas preferenciais, anuladas por uma opressão sem precedentes. O nome dessa república é Gilead, mas já foi Estados Unidos da América. Uma das obras mais importantes da premiada escritora canadense, conhecida por seu ativismo político, ambiental e em prol das causas femininas, O conto da aia foi escrito em 1985 e inspirou a série homônima (The Handmaid’s Tale, no original), produzida pelo canal de streaming Hulu em 2017. As mulheres de Gilead não têm direitos. Elas são divididas em categorias, cada qual com uma função muito específica no Estado. A Offred coube a categoria de aia, o que significa pertencer ao governo e existir unicamente para procriar, depois que uma catástrofe nuclear tornou estéril um grande número de pessoas. E sem dúvida, ainda que vigiada dia e noite e ceifada em seus direitos mais básicos, o destino de uma aia ainda é melhor que o das não-mulheres, como são chamadas aquelas que não podem ter filhos, as homossexuais, viúvas e feministas, condenadas a trabalhos forçados nas colônias, lugares onde o nível de radiação é mortífero. Com esta história assustadora, Margaret Atwood leva o leitor a refletir sobre liberdade, direitos civis, poder, a fragilidade do mundo tal qual o conhecemos, o futuro e, principalmente, o presente. Vencedor do Arthur C. Clarke Award."
+  },
+  {
+    "title": "Coraline",
+    "slug": "coraline",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/coraline.jpg",
+    "alt": "Coraline",    
+    "price": 25,
+    "category": "Terror",
+    "author": "Neil Gaiman",
+    "synopsis": "Certas portas não devem ser abertas. E Coraline descobre isso pouco tempo depois de chegar com os pais à sua nova casa, um apartamento em um casarão antigo ocupado por vizinhos excêntricos e envolto por uma névoa insistente, um mundo de estranhezas e magia, o tipo de universo que apenas Neil Gaiman pode criar. Ao abrir uma porta misteriosa na sala de casa, a menina se depara com um lugar macabro e fascinante. Ali, naquele outro mundo, seus outros pais são criaturas muito pálidas, com botões negros no lugar dos olhos, sempre dispostos a lhe dar atenção, fazer suas comidas preferidas e mostrar os brinquedos mais divertidos. Coraline enfim se sente... em casa. Mas essa sensação logo desaparece, quando ela descobre que o lugar guarda mistérios e perigos, e a menina se dá conta de que voltar para sua verdadeira casa vai ser muito mais difícil ― e assustador ― do que imaginava. Publicado pela primeira vez em 2002, Coraline foi o primeiro livro de Neil Gaiman para o público infantojuvenil e se tornou uma das obras mais emblemáticas do escritor. Repleta de elementos ao mesmo tempo sombrios e lúdicos, a história conquistou crianças e adultos em todo o mundo e, em 2009, ganhou as telas de cinema em uma animação dirigida por Henry Selick, de O estranho mundo de Jack. Nesta edição especial em capa dura, com introdução do autor e projeto gráfico exclusivo, coube ao renomado ilustrador Chris Riddell dar vida ao universo mágico e aterrorizante criado por Neil Gaiman."
+  },
+  {
+    "title": "Interestelar",
+    "slug": "interestelar",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/interestelar.jpg",
+    "alt": "Interestelar",
+    "price": 30,
+    "category": "Ficção",
+    "author": "Christopher Nolan",
+    "synopsis": "“O FIM DA TERRA NÃO SERÁ O NOSSO FIM” Do aclamado cineasta Christopher Nolan, diretor de A origem (Inception) e da trilogia Batman – O Cavaleiro das Trevas (Batman - The Dark Knight), INTERESTELAR é a crônica de um grupo de exploradores que se aproveita de um recém-descoberto buraco de minhoca para ultrapassar os limites das viagens espaciais tripuladas e assim conquistar as grandes distâncias de uma jornada interestelar. Enquanto viajam, estão em risco o destino do planeta... Terra...e o futuro da raça humana.O livro INTERESTELAR consegue explicar com clareza a teoria do físico Kip Thorne, que inspirou esta incrível história de ficção científica. Não é por nada que o filme, estrelado por Matthew McConaughey e Anne Hathaway, tornou-se imediatamente um cult mundial. No entanto, graças ao livro, com suas 268 páginas, as complexas e sofisticadas teorias desenvolvidas por Kip Thorne ficam accessíveis à maioria dos leitores. O filme, por sua vez, até pela sua própria linguagem e natureza, não consegue ‘traduzir’ toda a profundidade e dimensão da história. Um livro profundo e interessante, para aqueles que viram o filme e para os que se preocupam com o futuro da humanidade."
+  },
+  {
+    "title": "Romeu e Julieta",
+    "slug": "romeu-e-julieta",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/romeuejulieta.png",
+    "alt": "Romeu e Julieta",
+    "price": 35,
+    "category": "Romance",
+    "author": "William Shakespeare",
+    "synopsis": "Há muito tempo duas famílias banham em sangue as ruas de Verona. Enquanto isso, na penumbra das madrugadas, ardem as brasas de um amor secreto. Romeu, filho dos Montéquio, e Julieta, herdeira dos Capuleto, desafiam a rixa familiar e sonham com um impossível futuro, longe da violência e da loucura. Romeu e Julieta é a primeira das grandes tragédias de William Shakespeare, e esta nova tradução de José Francisco Botelho recria com maestria o ritmo ao mesmo tempo frenético e melancólico do texto shakespeariano. Contando também com um excelente ensaio introdutório do especialista Adrian Poole, esta edição traz nova vida a uma das mais emocionantes histórias de amor já contadas."
+  },
+  {
+    "title": "Orgulho e Preconceito",
+    "slug": "orugulho-e-preconceito",
+    "imageSrc": "https://reactlibraryexpress.vercel.app/imagens/orgulhoepreconceito.jpg",
+    "alt": "Orgulho e Preconceito",
+    "price": 20,
+    "category": "Romance",
+    "author": "Jane Austen",
+    "synopsis": "Orgulho e preconceito é o livro mais famoso de Jane Austen e possui uma série de personagens inesquecíveis e um enredo memorável. Austen nos apresenta Elizabeth Bennet como heroína irresistível e seu pretendente aristocrático, o sr. Darcy. Nesse livro, aspectos diferentes são abordados: orgulho encontra preconceito, ascendência social confronta desprezo social, equívocos e julgamentos antecipados conduzem alguns personagens ao sofrimento e ao escândalo. O livro pode ser considerado a obra-prima da escritora, que equilibra comédia com seriedade, observação meticulosa das atitudes humanas e sua ironia refinada. A nova coleção possui capa dura e estilo inspirado nos bullet journals.."
+  }
+]
