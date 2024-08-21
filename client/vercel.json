@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+        "source": "/api/(.*)",
+        "destination": "https://react-library-api.vercel.app/$1"
+        }
+    ]
+}
