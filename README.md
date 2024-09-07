@@ -43,7 +43,7 @@ Essa é a página do produto, cada produto tem sua própria página e ele poder�
 
 Página Carrinho
 
-Após adicionar o(s) produto(s) ao seu carrinho você poderá realizar a compra ao clicar no botão de realizar a compra e os itens serão adicionados à sua estante.
+Após adicionar o(s) produto(s) ao seu carrinho você poderá realizar a compra ao clicar no botão de comprar produto e os itens serão adicionados à sua estante.
 
 ![carrinho](https://github.com/user-attachments/assets/7ed95050-3ebf-4850-8d3a-bd3909ea5886)
 
