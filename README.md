@@ -51,7 +51,8 @@ Página Estante
 
 Finalmente, os livros comprados por você estarão renderizados na sua estante. Aqui você também poderá filtrar por gênero e pesquisar o livro que deseja assim como na Página Inicial.
 
-![estante](https://github.com/user-attachments/assets/7bde9b56-a4b9-4961-9609-4083a12664a8)
+![estante](https://github.com/user-attachments/assets/7f23b5ca-09dd-4bf8-bfaf-9ed31f202428)
+
 
 ## ✒️ Autor
 
