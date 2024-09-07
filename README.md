@@ -19,7 +19,7 @@ Você pode acessar o site em produção hospedado na vercel aqui: [AquaBookStore
 
 Página inicial 
 
-Renderização dos livros da aplicação, você pode filtrar os livros por gênero ou pesquisar o livro que deseja na barra de pesquisa.
+Renderização dos livros da aplicação, você pode filtrar os livros por gênero ou pesquisar o livro que deseja na barra de pesquisa. Você também pode acessar a Página do Produto ao clicar em algum livro.
 
 ![homepage](https://github.com/user-attachments/assets/f10e9ef0-b14b-4f22-9b7d-e06bdb81a6c1)
 
