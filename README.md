@@ -6,15 +6,13 @@ Uma simulação de livraria e-book onde você pode adicionar livros ao carrinho 
 
 Você pode acessar o site em produção hospedado na vercel aqui: [AquaBookStore](https://react-library-frontend-flame.vercel.app/)
 
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
+## 🛠️ Ferramentas Principais
 
 *  react: 18.3.1 
-*  styled-components: 6.1.11,
-*  axios: 1.7.2,
-*  jsonwebtoken: 9.0.2,
-*  mongoose: 8.4.0,
+*  styled-components: 6.1.11
+*  axios: 1.7.2
+*  jsonwebtoken: 9.0.2
+*  mongoose: 8.4.0
 
 
 ## ✒️ Autor
